@@ -1,0 +1,6 @@
+{
+  "name": "The Table – Modern Restaurant Demo & Template",
+  "description": "A modern, premium, fully responsive restaurant website template built with React, TypeScript, and Tailwind CSS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
